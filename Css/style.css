@@ -238,4 +238,8 @@ footer p{
     .nav-brand{
         margin-bottom: 0px;
     }
+    .itens-container2 p{
+        font-size: 10px;
+        text-align: center;
+    }
 }
