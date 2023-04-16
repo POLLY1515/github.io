@@ -210,12 +210,13 @@ footer p{
     height: 32px;
     margin: 10px;
 }
-@media(min-width:576px){
+@media(min-width:570px){
     html{
         font-size: 20px;
     }
+   
 }
-@media(min-width:768px){
+@media(min-width:770px){
     html{
         font-size: 24px;
     }
@@ -238,8 +239,7 @@ footer p{
     .nav-brand{
         margin-bottom: 0px;
     }
-    .itens-container2 p{
-        font-size: 10px;
-        text-align: center;
-    }
+   .container-itens2 p{
+    font-size: 5px;
+   }
 }
